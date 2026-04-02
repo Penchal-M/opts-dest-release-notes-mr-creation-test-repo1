@@ -68,7 +68,7 @@ Note: Use PATs. PATs are used instead of passwords for authentication with GitHu
 
 -----------------------------------------------------------------------------------------------------
 Web References Links:-
-====================
+----------------------
 
 REST API endpoints for labels -> https://docs.github.com/en/rest/issues/labels
 Can we add labels to a pull request while creation using rest API? -> https://stackoverflow.com/questions/68459601/can-we-add-labels-to-a-pull-request-while-creation-using-rest-api
